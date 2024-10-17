@@ -2,14 +2,25 @@
 <h3 align="center">A passionate developer from Morocco</h3>
 
 <p align="center">
-  <img src="/mrrobot.gif" alt="Start is Landings"/>
+  <img src="/neX5WxO-.gif" alt="Start is Landings"/>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats with GIF on the left -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamilobt8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=yamilobt8&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilobt8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph" />
+  <table>
+    <tr>
+      <!-- GIF Column -->
+      <td>
+        <img src="https://i.pinimg.com/originals/57/b6/af/57b6af9d6723da09dc4c96d67515ab77.gif" alt="GIF" width="250" height="268" />
+      </td>
+      <!-- GitHub Stats Column -->
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yamilobt8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph" />
+        <img src="https://streak-stats.demolab.com?user=yamilobt8&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamilobt8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Social Links -->
