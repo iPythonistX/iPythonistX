@@ -1,7 +1,5 @@
-HEY WHATS UP
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hacker81-sherlock&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=hacker81-sherlock&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hacker81-sherlock&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt "languages graph"  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yamilobt8&show_icons=true&theme=radical&hide_border=true&v=5"/>
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=yamilobt8&theme=radical&hide_border=true&v=5"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamilobt8&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff61af&text_color=c3e8fc&icon_color=c3e8fc&theme=radical&v=5"/>
 </div>
